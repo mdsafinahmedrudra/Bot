@@ -91,3 +91,5 @@ async def send_messi_gif(channel):
 async def randommeme(ctx):
     # You can add code here to fetch a random meme from a source (API, website, etc.)
     await ctx.send("Here's a random meme!")
+
+bot.run('token')
